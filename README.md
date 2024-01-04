@@ -1,8 +1,8 @@
 # ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning
 
-This is the PyTorch implementation of the paper **ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning**
+This is the PyTorch implementation of the paper **ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning**. We scaled up ChartAssistant-D (based on Donut) to obtain a stronger ChartAssistant-S, which performed two-stage training using the same method on the basis of SPHINX, achieving better results and having Significantly higher generalization than ChartAssistant-D
 
-**This repo is built upon [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main)**
+**This repo is built upon [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main)** and [Donut](https://github.com/clovaai/donut/tree/master)
 
 ## ChartAssisstant
 
