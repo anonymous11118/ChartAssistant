@@ -14,15 +14,7 @@ Charts play a vital role in data visualization, understanding data patterns, and
 
 
 
-## To Do List
 
-- [x] Create the git repository.
-
-- [ ] Open source the model and model weight.
-
-- [ ] Open source the inference script.
-
-- [ ] Open source the training scripts and the dataset (ChartSFT).
 
   
 
